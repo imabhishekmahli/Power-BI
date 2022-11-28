@@ -1,3 +1,3 @@
 # Power-BI
 
-![Screenshot]()
+![Screenshot](Project 1.pdf)
