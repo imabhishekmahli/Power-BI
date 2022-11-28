@@ -1,3 +1,3 @@
 # Power-BI
 
-![Screenshot](Project 1.pdf)
+![Screenshot](https://github.com/imabhishekmahli/Power-BI/blob/main/Project%201.pdf)
